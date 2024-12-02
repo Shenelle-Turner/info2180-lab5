@@ -21,7 +21,7 @@ if ($lookup === 'cities') {
     echo "<table>
             <thead>
               <tr>
-                <th>City</th>
+                <th>Name</th>
                 <th>District</th>
                 <th>Population</th>
               </tr>
@@ -42,7 +42,7 @@ if ($lookup === 'cities') {
     echo "<table>
             <thead>
               <tr>
-                <th>Country</th>
+                <th>Country Name</th>
                 <th>Continent</th>
                 <th>Independence Year</th>
                 <th>Head of State</th>
